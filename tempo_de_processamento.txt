@@ -1,0 +1,6 @@
+1 - 2.125s
+2 - 2.318s
+3 - 2.641s
+4 - 40.920s
+
+Os códigos seguintes o meu computador não conseguiu processar corretamente.
